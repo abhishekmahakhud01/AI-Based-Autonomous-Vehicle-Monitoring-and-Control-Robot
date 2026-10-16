@@ -1,0 +1,5 @@
+Model: official TurtleBot3 Burger SDF from ros-humble-turtlebot3-gazebo
+LiDAR topic: /scan
+Velocity command topic: /cmd_vel
+Odometry topic: /odom
+Controller: obstacle_avoidance.py
